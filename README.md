@@ -8,7 +8,7 @@ This project addresses the critical issue of employee churn, which can lead to s
 
 The project consists of the following key stages:
 
-* **1. Data Ingestion and Preparation:**
+## **1. Data Ingestion and Preparation:**
 
 * Loaded and processed employee churn data using Azure Databricks
 * Leveraged Spark's powerful data processing capabilities to handle large datasets efficiently.
