@@ -39,7 +39,7 @@ The project consists of the following key stages:
 * Integrated MLflow to track experiments, log metrics, and manage model versions.
 * Registered the best model in the MLflow Model Registry for version control and easy deployment.
 
-<img width="1466" alt="Screenshot 2024-05-19 at 6 39 52 PM" src="https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/3f044724-834f-4d55-9dbb-61e18f486290">
+<img width="1464" alt="Screenshot 2024-05-19 at 5 50 00 PM" src="https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/aa5ee966-9a1c-4992-82ae-cd4f60d05ccc">
 
 <img width="1459" alt="Screenshot 2024-05-19 at 6 44 14 PM" src="https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/439f1a06-8e4e-43b5-9755-14c69adb8de1">
   
