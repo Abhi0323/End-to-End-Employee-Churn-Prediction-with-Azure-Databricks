@@ -4,6 +4,8 @@
 
 This project addresses the critical issue of employee churn, which can lead to substantial costs and disruptions for organizations. By leveraging Azure Databricks, Spark, Scikit-Learn, MLflow, and Hugging Face Spaces, we developed a robust and scalable machine learning solution to predict employee churn and help organizations retain top talent.
 
+![ezgif com-animated-gif-maker (6)](https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/1c15638e-0719-44f9-9c6d-bfbe74842bde)
+
 ## Project Overview
 
 The project consists of the following key stages:
@@ -23,6 +25,8 @@ The project consists of the following key stages:
 * Handled missing values, encoded categorical variables using StringIndexer and OneHotEncoder.
 * Assembled feature vectors with VectorAssembler to prepare the data for machine learning.
 
+<img width="1468" alt="Screenshot 2024-05-19 at 6 38 06 PM" src="https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/47b49e82-3511-4aca-8cf2-d977fcaf1419">
+
 ## 4. Machine Learning Model Building with Scikit-Learn:
 
 * Converted the processed Spark DataFrame to a Pandas DataFrame for model building.
@@ -34,22 +38,32 @@ The project consists of the following key stages:
 
 * Integrated MLflow to track experiments, log metrics, and manage model versions.
 * Registered the best model in the MLflow Model Registry for version control and easy deployment.
+
+<img width="1466" alt="Screenshot 2024-05-19 at 6 39 52 PM" src="https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/3f044724-834f-4d55-9dbb-61e18f486290">
+
+<img width="1459" alt="Screenshot 2024-05-19 at 6 44 14 PM" src="https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/439f1a06-8e4e-43b5-9755-14c69adb8de1">
   
 ## 6. Model Serving with Azure Databricks:
 
 * Seamlessly deployed the model using Azure Databricks' model serving capabilities.
 * Provided a real-time inference endpoint to integrate with HR systems for real-time churn predictions.
-  
+
+<img width="1470" alt="Screenshot 2024-05-19 at 5 52 34 PM" src="https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/22dd33d8-137b-498d-804c-3fb1aeaa503f">
+
 ## 7. Application Deployment on Hugging Face Spaces:
 
 * Developed an interactive application using Streamlit, deployed on Hugging Face Spaces.
 * Allowed users to input employee data and receive churn predictions in real-time.
 * Demonstrated the model's scalability and low latency.
 
+<img width="591" alt="Screenshot 2024-05-19 at 6 32 31 PM" src="https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/7c53dbfd-7f0c-4c84-ad98-a294776327d1">
+
 ## 8. Performance Monitoring and Scalability Testing:
 
 * Monitored the model's performance using Azure Databricks' comprehensive monitoring tools.
 * Ensured the model could handle high traffic and deliver efficient predictions.
+
+<img width="1464" alt="Screenshot 2024-05-19 at 6 34 50 PM" src="https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/91e8eca2-6e1e-4e1f-be33-8182e321901d">
 
 ## 9. MLOps for Seamless Model Management and Deployment:
 
