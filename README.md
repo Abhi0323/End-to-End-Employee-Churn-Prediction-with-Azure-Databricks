@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project addresses the critical issue of employee churn, which can lead to substantial costs and disruptions for organizations. By leveraging Azure Databricks, Spark, Scikit-Learn, MLflow, and Hugging Face Spaces, we developed a robust and scalable machine learning solution to predict employee churn and help organizations retain top talent.
+This project addresses the critical issue of employee churn, which can lead to substantial costs and disruptions for organizations. By leveraging Azure Databricks, Spark, Scikit-Learn, MLflow, and Hugging Face Spaces, I developed a robust and scalable machine learning solution to predict employee churn and help organizations retain top talent.
 
 ![ezgif com-animated-gif-maker (6)](https://github.com/Abhi0323/End-to-End-Employee-Churn-Prediction-with-Azure-Databricks/assets/112967999/1c15638e-0719-44f9-9c6d-bfbe74842bde)
 
